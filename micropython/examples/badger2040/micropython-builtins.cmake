@@ -41,7 +41,6 @@ convert_image(usermod_badger2040 launchericons)
 
 convert_raw(usermod_badger2040 289-0-wind-in-the-willows-abridged.txt witw)
 
-copy_module(usermod_badger2040 ${CMAKE_CURRENT_LIST_DIR}/assets/boot.py boot)
 copy_module(usermod_badger2040 ${CMAKE_CURRENT_LIST_DIR}/launcher.py _launcher)
 copy_module(usermod_badger2040 ${CMAKE_CURRENT_LIST_DIR}/clock.py _clock)
 copy_module(usermod_badger2040 ${CMAKE_CURRENT_LIST_DIR}/fonts.py _fonts)
