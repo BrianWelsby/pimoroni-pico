@@ -8,4 +8,4 @@ require("umqtt.simple")
 require("aioble")
 
 freeze("../../modules_py", "pimoroni.py")
-freeze("../../modules_py", "boot.py")
+# freeze("../../modules_py", "boot.py")
